@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341496274740",
+    "project_id": "shopping-fd386",
+    "storage_bucket": "shopping-fd386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341496274740:android:e55da564898f51a8500f61",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0zsMfJj830osMsvmC1P78jlHdlT7EL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
